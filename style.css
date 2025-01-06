@@ -9,7 +9,7 @@
 
 body{
     background-color: #f4f4f4;
-    color: #333;
+    color: rgba(0, 0, 0, 1);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -39,15 +39,15 @@ body{
 .btn{
     padding: 8px 15px;
     border: none;
-    background-color: #303f9f;
-    color: #fff;
+    background-color: #a3d977;
+    color: rgba(0, 0, 0, 1);
     border-radius: 4px;
     cursor: pointer;
     transition: all 0.3s ease;
 }
 
 .btn:hover{
-    background-color: #0056b3;
+    background-color: #a3d977;
 }
 
 #canvas-container{
