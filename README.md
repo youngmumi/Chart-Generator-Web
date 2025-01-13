@@ -13,8 +13,8 @@
 ---
 
 # Screenshot
-<img src="images/chart1">
-<img src="images/chart2">
-<img src="images/chart3">
-<img src="images/chart4">
-<img src="images/chart5">
+<img src="images/chart1.png">
+<img src="images/chart2.png">
+<img src="images/chart3.png">
+<img src="images/chart4.png">
+<img src="images/chart5.png">
