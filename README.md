@@ -13,7 +13,8 @@
 ---
 
 # Screenshot
-동일한 데이터를 넣어서 5가지 chart type의 chart를를 생성했다.
+동일한 데이터를 넣어서 5가지 chart type의 chart를 생성했다.
+
 
 * bar chart
 <img src="images/chart 1.png">
