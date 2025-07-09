@@ -1,12 +1,12 @@
 # Chart Generator Web
 
-## Tools
-* html, css, javascript
+## 사용 스택
+* html, css, javascript : 프론트엔드
 
 ---
 
-# Explaination
-* chart.js를 이용함
+# 소개
+* chart.js api를 이용함
 * bar, line, pie, doughnut, radar 형태의 차트를 생성할 수 있음 
 * 생성한 차트를 jpeg 또는 png 형태로 저장 가능함
 
